@@ -1,10 +1,10 @@
-bipbip-example
-=========
+bipbip-random-example
+=====================
 Plugin example for [bipbip](https://github.com/cargomedia/bipbip).
 
 Configuration
 -------------
 ```yml
-plugin: example
+plugin: random-example
 max: 10
 ```

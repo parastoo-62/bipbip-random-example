@@ -1,6 +1,6 @@
 module Bipbip
 
-  class Plugin::Example < Plugin
+  class Plugin::RandomExample < Plugin
 
     def metrics_schema
       [
